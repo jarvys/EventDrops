@@ -1,4 +1,5 @@
 {
+  "main": "lib/main.js",
   "dependencies": {},
   "devDependencies": {
     "browserify": "5.11.2",
