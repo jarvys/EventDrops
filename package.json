@@ -1,4 +1,5 @@
 {
+  "version": "0.0.1",
   "name": "event-drops",
   "main": "lib/main.js",
   "dependencies": {},
